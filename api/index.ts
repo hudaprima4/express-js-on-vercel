@@ -10,7 +10,7 @@ const app = express();
 // Home route - HTML
 app.get('/', (req, res) => {
    res.json({
-      message: 'welome to the APIs',
+      message: 'welome to the APIs New',
    });
 });
 
